@@ -49,3 +49,14 @@ o The JVM performs all the tasks necessary for *running a Java application, incl
 o It also *handles garbage collection and provides a runtime environment*. 
 
 o The *key parts* of the JVM are the *Class Loader, Memory Area, Execution Engine, and the Garbage Collector.*
+
+
+
+
+---What is JRE?*
+
+- JRE stands for *Java Runtime Environment.*
+- It is the implementation of JVM (Java Virtual Machine) and it is specially designed to *provide an environment to execute Java programs*.
+- It is also platform dependent like JDK. 
+- It *consists of JVM, Java binaries, and other classes* for the smooth execution of the program. 
+- It *doesn’t contain any development tools like a compiler, debugger, etc.* If we only want to execute a program, we just need to install JRE and not JDK, since there is no development or compilation of the code required.
