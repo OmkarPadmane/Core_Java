@@ -60,3 +60,15 @@ o The *key parts* of the JVM are the *Class Loader, Memory Area, Execution Engin
 - It is also platform dependent like JDK. 
 - It *consists of JVM, Java binaries, and other classes* for the smooth execution of the program. 
 - It *doesn’t contain any development tools like a compiler, debugger, etc.* If we only want to execute a program, we just need to install JRE and not JDK, since there is no development or compilation of the code required.
+
+
+--- What is JDK?*
+
+- The *Java Development Kit (JDK)* is a *development environment* for building applications, applets, and components using the Java programming language.
+- It includes *tools useful for developing and testing programs* written in the Java programming language and running on the Java platform.
+- It has a *private Java Virtual Machine (JVM)* and a few other resources necessary for the development of a Java Application.
+- JDK contains:
+          - Java Runtime Environment (JRE),
+          - An interpreter/loader (Java),
+          - A compiler (javac),
+          - An archiver (jar) and many more.
