@@ -72,3 +72,14 @@ o The *key parts* of the JVM are the *Class Loader, Memory Area, Execution Engin
           - An interpreter/loader (Java),
           - A compiler (javac),
           - An archiver (jar) and many more.
+
+
+
+--- Features of Java*
+
+- *Simple* - Java is very easy to learn, and its syntax is simple, clean and easy to understand.
+- *Object Oriented* - Java is an object-oriented programming language. Everything in Java is an object.
+- *Portable* - Java platform-independent bytecode can be taken to any platform for execution makes java portable.
+- *Secure* - No explicit pointers, java programs run in an environment that is independent of the os environment which makes java programs more secure.
+- *Robust* - Strong memory management, lack of pointers, automatic garbage collection, exception handling and the type checking mechanism in Java makes java robust. 
+- *Platform Independent* - Java is platform independent because it is a write once, run anywhere language.
