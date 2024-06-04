@@ -1,4 +1,12 @@
+📌 *Daily Tech Tips*
 
+*Day 5: Features of Java*
+- *Simple* - Java is very easy to learn, and its syntax is simple, clean and easy to understand.
+- *Object Oriented* - Java is an object-oriented programming language. Everything in Java is an object.
+- *Portable* - Java platform-independent bytecode can be taken to any platform for execution makes java portable.
+- *Secure* - No explicit pointers, java programs run in an environment that is independent of the os environment which makes java programs more secure.
+- *Robust* - Strong memory management, lack of pointers, automatic garbage collection, exception handling and the type checking mechanism in Java makes java robust. 
+- *Platform Independent* - Java is platform independent because it is a write once, run anywhere language.
 
 --- Java Version Overview
 
@@ -78,8 +86,25 @@ o The *key parts* of the JVM are the *Class Loader, Memory Area, Execution Engin
 --- Features of Java*
 
 - *Simple* - Java is very easy to learn, and its syntax is simple, clean and easy to understand.
+
 - *Object Oriented* - Java is an object-oriented programming language. Everything in Java is an object.
+
 - *Portable* - Java platform-independent bytecode can be taken to any platform for execution makes java portable.
+
 - *Secure* - No explicit pointers, java programs run in an environment that is independent of the os environment which makes java programs more secure.
+
 - *Robust* - Strong memory management, lack of pointers, automatic garbage collection, exception handling and the type checking mechanism in Java makes java robust. 
-- *Platform Independent* - Java is platform independent because it is a write once, run anywhere language.
+
+- *Platform Independent* - Java is platform independent because it is a write once, run anywhere 
+
+*Architecture Neutral* - Java is architecture neutral because there are no implementation dependent features, for example, the size of primitive types is fixed.
+
+*High Performance* -  Java is faster than other traditional interpreted programming languages because Java bytecode is "close" to native code.
+
+*Distributed* - Java is distributed because it facilitates users to create distributed applications in Java. RMI and EJB are used for creating distributed applications.
+
+*Multithreading* -  Java supports multithreading. It is a Java feature that allows concurrent execution of two or more parts of a program for maximum utilization of the CPU.
+
+*Interpreted* - Java integrates arising enormous power as Java compiler compiles the source code to bytecode and JVM  executes this bytecode to machine OS-dependent executable code.
+
+*Dynamic* - It means classes are loaded on demand. Java supports dynamic compilation and automatic memory management (garbage collection).
