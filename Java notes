@@ -132,3 +132,13 @@ String s2=new String(“Hello”);
 s1 == s2 returns false, because they are different objects.
 
 s1.equals(s2) returns true, because their content is the same.
+
+
+--- toString() method in Java*
+- The toString() method is used to provide a string representation of an object. 
+- It is defined in the Object class, which is the superclass of all classes in Java. By default, the toString() method returns a string that consists of the class name followed by the "@" character and the object's hashcode in hexadecimal form. However, this 
+- The default implementation is often overridden in subclasses to provide more meaningful and useful string representations of objects. This is particularly useful for displaying object information in a user-friendly manner.
+- Example: Person p1 = new Person()
+       System.out.println(p1); - it automatically invokes toString() method.  
+       If toString() method is overridden in Person class then it will call Person class toString(), 
+       otherwise it will call Object class toString() method.
